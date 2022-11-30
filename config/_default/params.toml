@@ -3,9 +3,10 @@
 ## Homepage
 title = "Glacier"
 titleSeparator = "-"
-titleAddition = "Acercando DEFI a las personas"
+titleAddition = "Acercando defi a las personas"
 description = "Doks is a Hugo theme for building secure, fast, and SEO-ready documentation websites, which you can easily update and customize."
-
+logo = "https://glacier.fi/e481280e0eedd6524158.svg"
+projectSite = "https://glacier.fi"
 ## Documentation
 # docsVersion = "0.3"
 
