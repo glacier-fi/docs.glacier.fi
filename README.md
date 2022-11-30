@@ -81,7 +81,7 @@ Doks uses npm (included with Node.js) to centralize dependency management, makin
 
 ## Get started
 
-Start a new Doks project in three steps:
+Start working on this project in three steps:
 
 ### 1. Clone repo
 
