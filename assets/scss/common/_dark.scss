@@ -108,8 +108,14 @@ $navbar-dark-active-color:          $link-color-dark;
   color: $link-color-dark;
 }
 
+
+
 [data-dark-mode] body .navbar-light .navbar-brand {
   color: $navbar-dark-color !important;
+  }
+
+[data-dark-mode] body .navbar-brand {
+  background: url("https://app.dev.glacier.fi/static/media/logo.c10a80527a0eb8073992d380ba4eb906.svg") no-repeat;
 }
 
 [data-dark-mode] body .navbar-light .navbar-nav .nav-link {

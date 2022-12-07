@@ -11,7 +11,12 @@
 }
 
 .navbar-brand {
-  font-weight: $headings-font-weight;
+  // font-weight: $headings-font-weight;
+  background: url("https://app.dev.glacier.fi/static/media/logo-light.4ea113bb6d8500d841d6e34e7eb25863.svg") no-repeat;
+  width: 11.5%;
+  background-size: cover;
+  // margin: 0 auto;
+  // cursor: pointer;
 }
 
 /*
