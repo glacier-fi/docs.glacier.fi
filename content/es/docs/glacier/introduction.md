@@ -8,7 +8,7 @@ draft: false
 images: []
 menu:
   docs:
-    parent: "Glacier"
+    parent: "glacier"
 weight: 100
 toc: true
 ---
