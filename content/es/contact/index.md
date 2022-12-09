@@ -7,4 +7,4 @@ draft: false
 images: []
 ---
 
-Nos encantará leerte, puedes contactarnos en {{< email user="hola" domain="glacier.fi" >}}
+Nos encantará leerte, puedes contactarnos en [hola@glacier.fi](mailto:hola@glacier.fi).
