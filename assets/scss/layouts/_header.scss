@@ -11,7 +11,9 @@
 }
 
 .navbar-brand {
-  font-weight: $headings-font-weight;
+  background: url("https://glacier.fi/e481280e0eedd6524158.svg") no-repeat;
+  margin-top: auto;
+  height: auto;
 }
 
 /*
@@ -60,6 +62,7 @@
 
 .nav-item {
   margin-left: 0;
+  margin-top: auto;
 }
 
 @include media-breakpoint-up(md) {
