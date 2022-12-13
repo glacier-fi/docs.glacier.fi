@@ -1,1 +1,2 @@
-canonifyURLs = false
+baseurl = "https://glacier-fi.github.io/"
+canonifyURLs = true
