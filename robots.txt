@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://glacier-fi.github.io/sitemap.xml
+Sitemap: https://glacier-fi.github.io/docs.glacier.fi/sitemap.xml
